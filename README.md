@@ -1,5 +1,5 @@
 # Dog-And-Cat-Classifier-using-CNN
-This a an Image Classifier Project using Convolutional Neural Networks.
+This a an Image Classifier Project using Deep Learning and Convolutional Neural Networks.
 It classifies images of dogs and cats using 3 Neural layers and 1 Output layer.
 Tensorflow, Keras and OpenCV were used.
  We used the Dogs Vs Cats Dataset provided by Kaggle from Microsoft Download Center. 
