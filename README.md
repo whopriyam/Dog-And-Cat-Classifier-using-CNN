@@ -6,4 +6,4 @@ Tensorflow, Keras and OpenCV were used.
  You can download it from the following link:
  https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765
  
- In the end, we achieved an accuracy rate of 74.49%
+ In the end, we achieved an accuracy rate of 80.49%
